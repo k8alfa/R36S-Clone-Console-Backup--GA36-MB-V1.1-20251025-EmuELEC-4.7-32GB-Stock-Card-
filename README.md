@@ -47,6 +47,7 @@ The backup image is split into **8 compressed parts**. You must download all 8 p
 ## 📋 Image & Hardware Specifications
 * **Motherboard:** GA36-MB V1.1 20251025
 * **OS:** EmuELEC 4.7
+* **Content:** Around **20,000 games** pre-installed across **20 emulated platforms** (including PlayStation, PSP, Capcom 1/2/3, MAME, PC Engine, Famicom/Nintendo, Game Boy, Super Famicom/SNES, Nintendo 64, GBC, GBA, Nintendo DS, Game Gear, Sega Mega Drive, Dreamcast, and Neo-Geo).
 * **Actual Image Size:** Under 32 GB (Fits cleanly onto a standard **32 GB card**).
 * **Card Used for Backup:** SanDisk Ultra microSDXC UHS-I card 64GB (used simply because it was available at the time of creation).
 
