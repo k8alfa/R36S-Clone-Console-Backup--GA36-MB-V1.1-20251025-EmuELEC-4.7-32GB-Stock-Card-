@@ -4,8 +4,8 @@ This repository holds a full backup of the original SD card for the **GA36-MB V1
 - This is **NOT a modified firmware**
 - This is an **exact image of the original SD card**
 - Compatible **ONLY** with:
-  - **R36S Clone**
-  - **Motherboard: GA36-MB V1.1**
+  - **R36S Clone (GA36 Clone)**
+  - **Motherboard: GA36-MB V1.1 20251025**
   - **EmuELEC 4.7**
 
 If your console uses a different board or firmware version, **do NOT use this image**.
