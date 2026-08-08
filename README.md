@@ -77,4 +77,12 @@ This specific motherboard revision **only supports a single SD card setup**. For
 * **Black Screen:** Double-check your motherboard. This image only works on `GA36-MB V1.1 20251025`.
 
 ---
+
+## ⚖️ Legal Disclaimer
+This backup image is provided strictly for educational, preservation, and hardware restoration purposes. 
+* I do not own, sell, or claim rights to any of the games or operating system software included in this image.
+* All copyrights, trademarks, and intellectual property belong to their respective owners (Nintendo, SEGA, Sony, Capcom, etc.).
+* By downloading this backup, you agree that you own the original console hardware and physical copies of the software being restored.
+
+---
 *For personal backup and recovery purposes.*
