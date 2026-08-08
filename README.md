@@ -1,5 +1,8 @@
 # R36S Clone – GA36-MB V1.1–20251025 · EmuELEC (30GB SD Card Backup)
 
+> ⭐ **If this backup helps restore your console, please consider leaving a Star on this repository to help other R36S clone owners find it!**
+
+---
 This repository holds a full backup of the original SD card for the **GA36-MB V1.1-20251025** motherboard running **EmuELEC 4.7**, designed to help restore devices with corrupted storage.
 - This is **NOT a modified firmware**
 - This is an **exact image of the original SD card**
