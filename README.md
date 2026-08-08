@@ -33,6 +33,8 @@ Here is the verified working setup, motherboard model, and storage configuration
 ## 📥 Download Links
 The backup image is split into **8 compressed parts**. You must download all 8 parts from TeraBox into the same folder before extracting:
 
+*⚠️ **Note for TeraBox Downloads:** Because these files are large, TeraBox will ask you to log into a free account to download them. If you want to bypass the login completely, you can copy the link and use an online bypass tool like **[Terabox Downloader](https://teradownloader.com/)**
+
 * 👉Part 1 (.zip.001) **[Download Part 1](https://1024terabox.com/s/1KiqWE2mU8916v4FIycQRFw)**
 * 👉Part 2 (.zip.002) **[Download Part 2](https://1024terabox.com/s/15NLKU3ix0Qn5zvGqTTy6Bg)**
 * 👉Part 3 (.zip.003) **[Download Part 3](https://1024terabox.com/s/1EACxGs4qO0pm6PqCwWJxjw)**
